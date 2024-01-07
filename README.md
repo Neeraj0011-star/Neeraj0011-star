@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neeraj0011-star
 - 👀 I’m interested in coding  
-- 🌱 I’m currently learning python as well as web development
+- 🌱 I’m currently learning Java +DSA
 - 💞️ I’m looking to collaborate 
 
 <!---
